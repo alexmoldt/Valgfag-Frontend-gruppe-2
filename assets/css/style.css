@@ -5,7 +5,13 @@
 /* --- VARIABLES --- */
 :root {
     /* COLORS */
-    
+    --blackColor: #272727;
+    --whiteColor: #FDFDFD;
+    --orangeColor: #EDBA83;
+    --darkGreen: #518962;
+    --mediumGreen: #67A379;
+    --lightGreen: #AAC479;
+    --ultraLightGreen: #C3D899; 
 
     /* TEXT SIZE */
     
