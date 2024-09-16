@@ -6,6 +6,7 @@
 :root {
     /* COLORS */
     --blackColor: #272727;
+    --greyColor: #E6E6E6;
     --whiteColor: #FDFDFD;
     --orangeColor: #EDBA83;
     --darkGreen: #518962;
@@ -14,11 +15,10 @@
     --ultraLightGreen: #C3D899; 
 
     /* TEXT SIZE */
-    
-
-    
-   
-   
+    --textSizeH1: 4.4rem;
+    --textSizeH2: 2.5rem;
+    --textSizeH3: 2.2rem;
+    --textSizeBase: 1.9rem;
 }
 
 /* --- UTILLITIES --- */
